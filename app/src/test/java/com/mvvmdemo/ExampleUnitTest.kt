@@ -1,4 +1,4 @@
-package com.cheezycode.mvvmdemo
+package com.mvvmdemo
 
 import org.junit.Test
 
